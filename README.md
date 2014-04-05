@@ -18,7 +18,10 @@ Particularmente me ha gustado que puedas añadir tus [propios RSS](http://blog.t
 **showRSS** ([http://showrss.info/](http://showrss.info/))
 Puedes crearte una lista de shows y añadirla a TvSows 2 para que descargue todos los episodios que salgan. También crear una lista de una sola serie y elegir si es HD o no.
 
+##Subtítulos:
 
+- [SubsWiki](http://www.subswiki.com/)
+- [Subtitulos.es](http://www.subtitulos.es/)
 
 
 
