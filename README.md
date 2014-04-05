@@ -2,7 +2,7 @@
 
 ###Se pretende juntar todas las opciones para automatizar la descarga de feeds de RSS.
 
-Gracias a [@Oneeyedman](https://twitter.com/oneeyedman), [@Flodar](https://twitter.com/flodar), [@JaoPi](https://twitter.com/JaoPi), [@junihh](https://twitter.com/junihh) y [@faguado](https://twitter.com/faguado) por las discusión en Twitter para sacar todos estos recursos.
+Gracias a [@Oneeyedman](https://twitter.com/oneeyedman), [@Flodar](https://twitter.com/flodar), [@JaoPi](https://twitter.com/JaoPi), [@junihh](https://twitter.com/junihh) y [@fjaguado](https://twitter.com/fjaguado) por las discusión en Twitter para sacar todos estos recursos.
 
 
 ##Aplicaiones:
@@ -17,6 +17,9 @@ Particularmente me ha gustado que puedas añadir tus [propios RSS](http://blog.t
 
 **showRSS** ([http://showrss.info/](http://showrss.info/))
 Puedes crearte una lista de shows y añadirla a TvSows 2 para que descargue todos los episodios que salgan. También crear una lista de una sola serie y elegir si es HD o no.
+
+**EZRSS** ([http://ezrss.it/](http://ezrss.it/))
+Se trata del generador de RSS del portal ([http://eztv.it/](http://eztv.it/)). Puedes filtrar por nombre de serie, fecha, calidad o grupo del ripeo. 
 
 ##Subtítulos:
 
