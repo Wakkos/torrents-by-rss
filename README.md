@@ -2,7 +2,7 @@
 
 ###Se pretende juntar todas las opciones para automatizar la descarga de feeds de RSS.
 
-Gracias a [@Oneeyedman](https://twitter.com/oneeyedman), [@Flodar](https://twitter.com/flodar), [@JaoPi](https://twitter.com/JaoPi), [@junihh](https://twitter.com/junihh) y [@faguado](https://twitter.com/faguado) por las discusión en Twitter para sacar todos estos recursos.
+Gracias a [@Oneeyedman](https://twitter.com/oneeyedman), [@Flodar](https://twitter.com/flodar), [@JaoPi](https://twitter.com/JaoPi), [@junihh](https://twitter.com/junihh) y [@fjaguado](https://twitter.com/fjaguado) por las discusión en Twitter para sacar todos estos recursos.
 
 
 ##Aplicaiones:
